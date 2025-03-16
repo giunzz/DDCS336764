@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vdung_tb_mux4to1
+!s110 1742020892
+!i10b 1
+!s100 V7hEdYNH3j4o=>=HgThej2
+ICOk@gSgHIN8CJCkW@C4@Q1
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Users/ASUS/Downloads/IC_Desgin
+w1742020802
+8C:/Users/ASUS/Downloads/IC_Desgin/HoangNgocDung_test_mux4to1.v
+FC:/Users/ASUS/Downloads/IC_Desgin/HoangNgocDung_test_mux4to1.v
+L0 2
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1742020892.000000
+!s107 C:/Users/ASUS/Downloads/IC_Desgin/HoangNgocDung_test_mux4to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Downloads/IC_Desgin/HoangNgocDung_test_mux4to1.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vmux4to1
+!s110 1742020897
+!i10b 1
+!s100 96;3Jk47QO^QBHjK6RPhY1
+INl8>aj9ABAL9SdfBYP^6E2
+R0
+R1
+w1742019761
+8C:/Users/ASUS/Downloads/IC_Desgin/mux4to1.v
+FC:/Users/ASUS/Downloads/IC_Desgin/mux4to1.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1742020897.000000
+!s107 C:/Users/ASUS/Downloads/IC_Desgin/mux4to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Downloads/IC_Desgin/mux4to1.v|
+!i113 1
+R3
+R4
+vmux8to1
+!s110 1742144621
+!i10b 1
+!s100 _YL?U]G4AjGYKJ6k[K<^@1
+I7[gNe2CCUi7mLXJW0DZnW0
+R0
+R1
+w1742144613
+8C:/Users/ASUS/Downloads/IC_Desgin/mux8to1.v
+FC:/Users/ASUS/Downloads/IC_Desgin/mux8to1.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1742144621.000000
+!s107 C:/Users/ASUS/Downloads/IC_Desgin/mux8to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Downloads/IC_Desgin/mux8to1.v|
+!i113 1
+R3
+R4
