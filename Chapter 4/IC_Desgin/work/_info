@@ -9,26 +9,47 @@ z2
 cModel Technology
 dC:/intelFPGA/18.1
 vdung_tb_mux4to1
-!s110 1742020892
+!s110 1742145549
 !i10b 1
-!s100 V7hEdYNH3j4o=>=HgThej2
-ICOk@gSgHIN8CJCkW@C4@Q1
+!s100 ;0n]EZd7cLo9adJfeX4TQ3
+IKKoz@Iz:1=;Un0zT_D4B_1
 Z0 VDg1SIo80bB@j0V0VzS_@n1
 Z1 dC:/Users/ASUS/Downloads/IC_Desgin
-w1742020802
-8C:/Users/ASUS/Downloads/IC_Desgin/HoangNgocDung_test_mux4to1.v
-FC:/Users/ASUS/Downloads/IC_Desgin/HoangNgocDung_test_mux4to1.v
+w1742145540
+Z2 8C:/Users/ASUS/Downloads/IC_Desgin/HoangNgocDung_test_mux8to1.v
+Z3 FC:/Users/ASUS/Downloads/IC_Desgin/HoangNgocDung_test_mux8to1.v
 L0 2
-Z2 OV;L;10.5b;63
+Z4 OV;L;10.5b;63
 r1
 !s85 0
 31
-!s108 1742020892.000000
-!s107 C:/Users/ASUS/Downloads/IC_Desgin/HoangNgocDung_test_mux4to1.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Downloads/IC_Desgin/HoangNgocDung_test_mux4to1.v|
+!s108 1742145549.000000
+!s107 C:/Users/ASUS/Downloads/IC_Desgin/HoangNgocDung_test_mux8to1.v|
+Z5 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Downloads/IC_Desgin/HoangNgocDung_test_mux8to1.v|
 !i113 1
-Z3 o-work work
-Z4 tCvgOpt 0
+Z6 o-work work
+Z7 tCvgOpt 0
+vdung_tb_mux8to1
+!s110 1742145590
+!i10b 1
+!s100 loLQWN?>I8`cBS;HYENoV3
+I@kC>A;7ZjcEgenaGHXnkm1
+R0
+R1
+w1742145583
+R2
+R3
+L0 2
+R4
+r1
+!s85 0
+31
+!s108 1742145590.000000
+!s107 C:/Users/ASUS/Downloads/IC_Desgin/HoangNgocDung_test_mux8to1.v|
+R5
+!i113 1
+R6
+R7
 vmux4to1
 !s110 1742020897
 !i10b 1
@@ -40,7 +61,7 @@ w1742019761
 8C:/Users/ASUS/Downloads/IC_Desgin/mux4to1.v
 FC:/Users/ASUS/Downloads/IC_Desgin/mux4to1.v
 L0 1
-R2
+R4
 r1
 !s85 0
 31
@@ -48,8 +69,8 @@ r1
 !s107 C:/Users/ASUS/Downloads/IC_Desgin/mux4to1.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Downloads/IC_Desgin/mux4to1.v|
 !i113 1
-R3
-R4
+R6
+R7
 vmux8to1
 !s110 1742144621
 !i10b 1
@@ -61,7 +82,7 @@ w1742144613
 8C:/Users/ASUS/Downloads/IC_Desgin/mux8to1.v
 FC:/Users/ASUS/Downloads/IC_Desgin/mux8to1.v
 L0 1
-R2
+R4
 r1
 !s85 0
 31
@@ -69,5 +90,5 @@ r1
 !s107 C:/Users/ASUS/Downloads/IC_Desgin/mux8to1.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Downloads/IC_Desgin/mux8to1.v|
 !i113 1
-R3
-R4
+R6
+R7

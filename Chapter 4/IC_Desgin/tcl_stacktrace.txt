@@ -1,0 +1,76 @@
+Mon Mar 17 00:15:55 ICT 2025
+Trace back: window name "source1" already exists in parent
+    while executing
+"frame [GetActiveWindowFooter].$name"
+    (procedure "Console::CreateWindowFooter" line 3)
+    invoked from within
+"Console::CreateWindowFooter [$frame_name cget -windowname]"
+    (object "::.main_pane.source1" method "::mtiwidgets::WindowObj::Activate" body line 24)
+    invoked from within
+"$windowobj Activate """
+    (object "::.vcop" method "::vsimwidgets::Vcop::ActualActivate" body line 36)
+    invoked from within
+"::.vcop ActualActivate"
+    (in namespace inscope "::vsimwidgets::Vcop" script line 1)
+    invoked from within
+"namespace inscope ::vsimwidgets::Vcop {::.vcop ActualActivate}"
+    ("after" script)
+  <2:C:/intelFPGA/18.1/modelsim_ase/win32aloem/tk8.5/bgerror.tcl:92: ::tkerror {window name "source1" already exists in parent}
+  <1:proc:24: ::tk::dialog::error::bgerror {window name "source1" already exists in parent}
+Mon Mar 17 00:16:08 ICT 2025
+Trace back: window name "source1" already exists in parent
+    while executing
+"frame [GetActiveWindowFooter].$name"
+    (procedure "Console::CreateWindowFooter" line 3)
+    invoked from within
+"Console::CreateWindowFooter [$frame_name cget -windowname]"
+    (object "::.main_pane.source1" method "::mtiwidgets::WindowObj::Activate" body line 24)
+    invoked from within
+"$windowobj Activate """
+    (object "::.vcop" method "::vsimwidgets::Vcop::ActualActivate" body line 36)
+    invoked from within
+"::.vcop ActualActivate"
+    (in namespace inscope "::vsimwidgets::Vcop" script line 1)
+    invoked from within
+"namespace inscope ::vsimwidgets::Vcop {::.vcop ActualActivate}"
+    ("after" script)
+  <2:C:/intelFPGA/18.1/modelsim_ase/win32aloem/tk8.5/bgerror.tcl:92: ::tkerror {window name "source1" already exists in parent}
+  <1:proc:24: ::tk::dialog::error::bgerror {window name "source1" already exists in parent}
+Mon Mar 17 00:16:43 ICT 2025
+Trace back: window name "source1" already exists in parent
+    while executing
+"frame [GetActiveWindowFooter].$name"
+    (procedure "Console::CreateWindowFooter" line 3)
+    invoked from within
+"Console::CreateWindowFooter [$frame_name cget -windowname]"
+    (object "::.main_pane.source1" method "::mtiwidgets::WindowObj::Activate" body line 24)
+    invoked from within
+"$windowobj Activate """
+    (object "::.vcop" method "::vsimwidgets::Vcop::ActualActivate" body line 36)
+    invoked from within
+"::.vcop ActualActivate"
+    (in namespace inscope "::vsimwidgets::Vcop" script line 1)
+    invoked from within
+"namespace inscope ::vsimwidgets::Vcop {::.vcop ActualActivate}"
+    ("after" script)
+  <2:C:/intelFPGA/18.1/modelsim_ase/win32aloem/tk8.5/bgerror.tcl:92: ::tkerror {window name "source1" already exists in parent}
+  <1:proc:24: ::tk::dialog::error::bgerror {window name "source1" already exists in parent}
+Mon Mar 17 00:16:53 ICT 2025
+Trace back: window name "source1" already exists in parent
+    while executing
+"frame [GetActiveWindowFooter].$name"
+    (procedure "Console::CreateWindowFooter" line 3)
+    invoked from within
+"Console::CreateWindowFooter [$frame_name cget -windowname]"
+    (object "::.main_pane.source1" method "::mtiwidgets::WindowObj::Activate" body line 24)
+    invoked from within
+"$windowobj Activate """
+    (object "::.vcop" method "::vsimwidgets::Vcop::ActualActivate" body line 36)
+    invoked from within
+"::.vcop ActualActivate"
+    (in namespace inscope "::vsimwidgets::Vcop" script line 1)
+    invoked from within
+"namespace inscope ::vsimwidgets::Vcop {::.vcop ActualActivate}"
+    ("after" script)
+  <2:C:/intelFPGA/18.1/modelsim_ase/win32aloem/tk8.5/bgerror.tcl:92: ::tkerror {window name "source1" already exists in parent}
+  <1:proc:24: ::tk::dialog::error::bgerror {window name "source1" already exists in parent}
