@@ -1,9 +1,9 @@
-C:/Users/ASUS/Downloads/IC_Desgin/HoangNgocDung_test_mux8to1.v {1 {vlog -work work -stats=none C:/Users/ASUS/Downloads/IC_Desgin/HoangNgocDung_test_mux8to1.v
+C:/Users/ASUS/Downloads/IC_Desgin/HoangNgocDung_test_mux4to1.v {1 {vlog -work work -stats=none C:/Users/ASUS/Downloads/IC_Desgin/HoangNgocDung_test_mux4to1.v
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module dung_tb_mux8to1
+-- Compiling module dung_tb_mux4to1
 
 Top level modules:
-	dung_tb_mux8to1
+	dung_tb_mux4to1
 
 } {} {}} C:/Users/ASUS/Downloads/IC_Desgin/mux8to1.v {1 {vlog -work work -stats=none C:/Users/ASUS/Downloads/IC_Desgin/mux8to1.v
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
@@ -12,11 +12,18 @@ Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  
 Top level modules:
 	mux8to1
 
-} {} {}} C:/Users/ASUS/Downloads/IC_Desgin/HoangNgocDung_test_mux4to1.v {1 {vlog -work work -stats=none C:/Users/ASUS/Downloads/IC_Desgin/HoangNgocDung_test_mux4to1.v
+} {} {}} C:/Users/ASUS/Downloads/IC_Desgin/HoangNgocDung_test_mux8to1.v {1 {vlog -work work -stats=none C:/Users/ASUS/Downloads/IC_Desgin/HoangNgocDung_test_mux8to1.v
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module dung_tb_mux4to1
+-- Compiling module dung_tb_mux8to1
 
 Top level modules:
-	dung_tb_mux4to1
+	dung_tb_mux8to1
+
+} {} {}} {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 4/IC_Desgin/demux1to8.v} {1 {vlog -work work -stats=none {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 4/IC_Desgin/demux1to8.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module demux1to8
+
+Top level modules:
+	demux1to8
 
 } {} {}}

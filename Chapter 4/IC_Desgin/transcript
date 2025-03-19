@@ -1,11 +1,11 @@
 # Reading C:/intelFPGA/18.1/modelsim_ase/tcl/vsim/pref.tcl
-# OpenFile {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 4/IC_Desgin/HND_test.v}
-vsim work.dung_tb_mux4to1
-# vsim work.dung_tb_mux4to1 
-# Start time: 00:36:57 on Mar 17,2025
-# Loading work.dung_tb_mux4to1
+# OpenFile {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 4/IC_Desgin/mux4to1.v}
+vsim work.mux4to1
+# vsim work.mux4to1 
+# Start time: 13:03:25 on Mar 19,2025
 # Loading work.mux4to1
-# ** Warning: (vsim-3015) C:/Users/ASUS/Downloads/IC_Desgin/HoangNgocDung_test_mux8to1.v(27): [PCDPC] - Port size (4) does not match connection size (8) for port 'w'. The port definition is at: C:/Users/ASUS/Downloads/IC_Desgin/mux4to1.v(2).
-#    Time: 0 ns  Iteration: 0  Instance: /dung_tb_mux4to1/m0 File: C:/Users/ASUS/Downloads/IC_Desgin/mux4to1.v
-# ** Warning: (vsim-3015) C:/Users/ASUS/Downloads/IC_Desgin/HoangNgocDung_test_mux8to1.v(27): [PCDPC] - Port size (2) does not match connection size (3) for port 's'. The port definition is at: C:/Users/ASUS/Downloads/IC_Desgin/mux4to1.v(3).
-#    Time: 0 ns  Iteration: 0  Instance: /dung_tb_mux4to1/m0 File: C:/Users/ASUS/Downloads/IC_Desgin/mux4to1.v
+run
+-sim
+# invalid command name "-sim"
+# End time: 13:09:06 on Mar 19,2025, Elapsed time: 0:05:41
+# Errors: 1, Warnings: 0
