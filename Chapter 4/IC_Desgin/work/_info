@@ -8,150 +8,234 @@ z2
 !i10f 100
 cModel Technology
 dC:/intelFPGA/18.1
-vdemux1to8
-!s110 1742366001
+vdecoder3to8_en0
+Z0 !s110 1742413616
 !i10b 1
-!s100 OoAPf^^QPjL?Dh;GEcH9]2
-Ijla?i08mg@^CE4jTE0l:N1
-Z0 VDg1SIo80bB@j0V0VzS_@n1
-Z1 dC:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 4/IC_Desgin
-w1742365586
-Z2 8C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 4/IC_Desgin/demux1to8.v
-Z3 FC:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 4/IC_Desgin/demux1to8.v
+!s100 hmbmYRCBbV0BQTf0@X4N93
+InL0W]]V0GXHPd3omCf1DN2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 4/IC_Desgin
+w1742413381
+8C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 4/IC_Desgin/decoder3to8_en0.v
+FC:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 4/IC_Desgin/decoder3to8_en0.v
 L0 1
-Z4 OV;L;10.5b;63
+Z3 OV;L;10.5b;63
 r1
 !s85 0
 31
-!s108 1742366001.000000
-Z5 !s107 C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 4/IC_Desgin/demux1to8.v|
-Z6 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 4/IC_Desgin/demux1to8.v|
+Z4 !s108 1742413616.000000
+!s107 C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 4/IC_Desgin/decoder3to8_en0.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 4/IC_Desgin/decoder3to8_en0.v|
 !i113 1
-Z7 o-work work
-Z8 tCvgOpt 0
+Z5 o-work work
+Z6 tCvgOpt 0
+vdecoder3to8_en1
+R0
+!i10b 1
+!s100 ?Y]N@i84^=73I31EhTY2j2
+I`8YYODS3@eYY1M`WIdE5a0
+R1
+R2
+w1742413500
+8C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 4/IC_Desgin/Decoder_3to8_EN_1.v
+FC:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 4/IC_Desgin/Decoder_3to8_EN_1.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 4/IC_Desgin/Decoder_3to8_EN_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 4/IC_Desgin/Decoder_3to8_EN_1.v|
+!i113 1
+R5
+R6
+vdemux1to8
+R0
+!i10b 1
+!s100 OoAPf^^QPjL?Dh;GEcH9]2
+Ijla?i08mg@^CE4jTE0l:N1
+R1
+R2
+w1742365586
+Z7 8C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 4/IC_Desgin/demux1to8.v
+Z8 FC:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 4/IC_Desgin/demux1to8.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+Z9 !s107 C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 4/IC_Desgin/demux1to8.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 4/IC_Desgin/demux1to8.v|
+!i113 1
+R5
+R6
 vdemux_1to8
 !s110 1742365108
 !i10b 1
 !s100 `hIPWzQceKOHc_>=>XFC^1
 IB]4<I4z?Xz;POWf:Vf[kk0
-R0
 R1
-w1742365103
 R2
-R3
+w1742365103
+R7
+R8
 L0 1
-R4
+R3
 r1
 !s85 0
 31
 !s108 1742365108.000000
+R9
+R10
+!i113 1
 R5
 R6
-!i113 1
-R7
-R8
-vdung_tb_demux1to8
-!s110 1742398811
+vdung_tb_decoder3to8_en0
+!s110 1742414451
 !i10b 1
-!s100 >HzhB1feaj`P0=Q6e21HP1
-Ii:idkHm8bRBF2jJ@UAGdf0
-R0
+!s100 hVXKfAeWhC[IK89]K[zO=1
+Ie<8_j@V;>@k^b7W;6fF4T2
 R1
-w1742398800
+R2
+w1742414446
+8C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 4/IC_Desgin/HoangNgocDung3to8_en0.v
+FC:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 4/IC_Desgin/HoangNgocDung3to8_en0.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1742414451.000000
+!s107 C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 4/IC_Desgin/HoangNgocDung3to8_en0.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 4/IC_Desgin/HoangNgocDung3to8_en0.v|
+!i113 1
+R5
+R6
+vdung_tb_decoder3to8_en1
+R0
+!i10b 1
+!s100 dfgYQ9@I;l_Jn6;B`>@kG1
+IIk:9@Z4CeX9L^3]aKGY[l0
+R1
+R2
+w1742413541
+8C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 4/IC_Desgin/HoangNgocDung_tb_decoder3to8_en1.v
+FC:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 4/IC_Desgin/HoangNgocDung_tb_decoder3to8_en1.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 4/IC_Desgin/HoangNgocDung_tb_decoder3to8_en1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 4/IC_Desgin/HoangNgocDung_tb_decoder3to8_en1.v|
+!i113 1
+R5
+R6
+vdung_tb_demux1to8
+R0
+!i10b 1
+!s100 cL7BV<G@CG;;0Z3=Ia^X[2
+InffUL3dlRV??K`R?hlN6O1
+R1
+R2
+w1742402888
 8C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 4/IC_Desgin/HoangNgocDung_test_demux_1o8.v
 FC:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 4/IC_Desgin/HoangNgocDung_test_demux_1o8.v
 L0 2
-R4
+R3
 r1
 !s85 0
 31
-!s108 1742398811.000000
+R4
 !s107 C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 4/IC_Desgin/HoangNgocDung_test_demux_1o8.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 4/IC_Desgin/HoangNgocDung_test_demux_1o8.v|
 !i113 1
-R7
-R8
+R5
+R6
 vdung_tb_mux4to1
-!s110 1742145549
-!i10b 1
-!s100 ;0n]EZd7cLo9adJfeX4TQ3
-IKKoz@Iz:1=;Un0zT_D4B_1
 R0
-Z9 dC:/Users/ASUS/Downloads/IC_Desgin
-w1742145540
-Z10 8C:/Users/ASUS/Downloads/IC_Desgin/HoangNgocDung_test_mux8to1.v
-Z11 FC:/Users/ASUS/Downloads/IC_Desgin/HoangNgocDung_test_mux8to1.v
-L0 2
-R4
-r1
-!s85 0
-31
-!s108 1742145549.000000
-Z12 !s107 C:/Users/ASUS/Downloads/IC_Desgin/HoangNgocDung_test_mux8to1.v|
-Z13 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Downloads/IC_Desgin/HoangNgocDung_test_mux8to1.v|
-!i113 1
-R7
-R8
-vdung_tb_mux8to1
-!s110 1742366633
 !i10b 1
-!s100 loLQWN?>I8`cBS;HYENoV3
-I@kC>A;7ZjcEgenaGHXnkm1
-R0
+!s100 V7hEdYNH3j4o=>=HgThej2
+ICOk@gSgHIN8CJCkW@C4@Q1
 R1
-w1742145583
-R10
-R11
+R2
+w1742020802
+8C:/Users/ASUS/Downloads/IC_Desgin/HoangNgocDung_test_mux4to1.v
+FC:/Users/ASUS/Downloads/IC_Desgin/HoangNgocDung_test_mux4to1.v
 L0 2
-R4
+R3
 r1
 !s85 0
 31
-!s108 1742366633.000000
-R12
-R13
+R4
+!s107 C:/Users/ASUS/Downloads/IC_Desgin/HoangNgocDung_test_mux4to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Downloads/IC_Desgin/HoangNgocDung_test_mux4to1.v|
 !i113 1
-R7
-R8
+R5
+R6
+vdung_tb_mux8to1
+R0
+!i10b 1
+!s100 UC<AaKe7QE4AV>O]]im^V0
+IkBAZT55kK9JI9KWz8T4kk1
+R1
+R2
+w1742401049
+8C:/Users/ASUS/Downloads/IC_Desgin/HoangNgocDung_test_mux8to1.v
+FC:/Users/ASUS/Downloads/IC_Desgin/HoangNgocDung_test_mux8to1.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/ASUS/Downloads/IC_Desgin/HoangNgocDung_test_mux8to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Downloads/IC_Desgin/HoangNgocDung_test_mux8to1.v|
+!i113 1
+R5
+R6
 vmux4to1
-!s110 1742020897
+R0
 !i10b 1
 !s100 96;3Jk47QO^QBHjK6RPhY1
 INl8>aj9ABAL9SdfBYP^6E2
-R0
-R9
-w1742019761
+R1
+R2
+w1742022031
 8C:/Users/ASUS/Downloads/IC_Desgin/mux4to1.v
 FC:/Users/ASUS/Downloads/IC_Desgin/mux4to1.v
 L0 1
-R4
+R3
 r1
 !s85 0
 31
-!s108 1742020897.000000
+R4
 !s107 C:/Users/ASUS/Downloads/IC_Desgin/mux4to1.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Downloads/IC_Desgin/mux4to1.v|
 !i113 1
-R7
-R8
+R5
+R6
 vmux8to1
-!s110 1742144621
+R0
 !i10b 1
 !s100 _YL?U]G4AjGYKJ6k[K<^@1
 I7[gNe2CCUi7mLXJW0DZnW0
-R0
-R9
+R1
+R2
 w1742144613
 8C:/Users/ASUS/Downloads/IC_Desgin/mux8to1.v
 FC:/Users/ASUS/Downloads/IC_Desgin/mux8to1.v
 L0 1
-R4
+R3
 r1
 !s85 0
 31
-!s108 1742144621.000000
+R4
 !s107 C:/Users/ASUS/Downloads/IC_Desgin/mux8to1.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Downloads/IC_Desgin/mux8to1.v|
 !i113 1
-R7
-R8
+R5
+R6
