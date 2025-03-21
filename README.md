@@ -34,12 +34,5 @@ You can view my full report here: [Report (PDF)](https://github.com/giunzz/DDCS3
 
 ## **Chapter 4: Coming Soon**
 
-Stay tuned for the next chapter where I'll dive deeper into more advanced FPGA designs and concepts!
-
----
 
 ## **Chapter 5: Coming Soon**
-
-In Chapter 5, I'll explore additional FPGA design techniques and provide more detailed examples. Keep an eye out for updates!
-
----
