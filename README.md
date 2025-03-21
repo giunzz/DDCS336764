@@ -1,3 +1,44 @@
-# DDCS336764
+# **DDCS336764**
 
-Hi, I will upload my verilog code here keke
+Hi! Welcome to my blog about **FPGA design**.
+
+---
+
+## **Chapter 3: FPGA Design Examples**
+
+In this chapter, I showcase my Verilog code and testbenches, along with visualizations in ModelSim for the following designs:
+
+### 1. **Full Adder (4-bit)**
+   - Implemented a 4-bit full adder to perform binary addition with carry propagation.
+   
+### 2. **Demux 1 to 8**
+   - A **1-to-8 Demux** design to distribute an input signal to one of the 8 output lines based on a 3-bit select input.
+
+### 3. **Mux 8 to 1**
+   - A **8-to-1 Multiplexer** that selects one of 8 inputs based on a 3-bit select input.
+
+### 4. **Decoder 3 to 8 (Enabled = 1)**
+   - A **3-to-8 Decoder** where one of 8 outputs is active based on a 3-bit input and the enable signal is set to 1.
+
+### 5. **Decoder 3 to 8 (Enabled = 0)**
+   - A **3-to-8 Decoder** where the outputs are inactive because the enable signal is set to 0.
+
+---
+
+### **My Report**
+
+You can view my full report here: [Report (PDF)](https://github.com/giunzz/DDCS336764/blob/main/Chapter%204/Quick%20Question.%20Chapter%2004.pdf)
+
+---
+
+## **Chapter 4: Coming Soon**
+
+Stay tuned for the next chapter where I'll dive deeper into more advanced FPGA designs and concepts!
+
+---
+
+## **Chapter 5: Coming Soon**
+
+In Chapter 5, I'll explore additional FPGA design techniques and provide more detailed examples. Keep an eye out for updates!
+
+---
