@@ -9,35 +9,35 @@ z2
 cModel Technology
 dC:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 4/IC_Desgin
 vdung_tb_FFD
-Z0 !s110 1742638878
+Z0 !s110 1742702050
 !i10b 1
 !s100 fHLkXSP5D[70>ciZ07zT<1
-IXNGYXBG4DeT7]5;aDDGTf3
+IO6=ZDn99>J1UfF>?NJW8:1
 Z1 VDg1SIo80bB@j0V0VzS_@n1
 Z2 dC:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 5/IC_desgin
-w1742627353
-8C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 5/IC_desgin/dung_tb_FFD.v
-FC:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 5/IC_desgin/dung_tb_FFD.v
+w1742639483
+8C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 5/IC_desgin/HoangNgocDung_tb_FFD.v
+FC:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 5/IC_desgin/HoangNgocDung_tb_FFD.v
 L0 2
 Z3 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z4 !s108 1742638878.000000
-!s107 C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 5/IC_desgin/dung_tb_FFD.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 5/IC_desgin/dung_tb_FFD.v|
+Z4 !s108 1742702050.000000
+!s107 C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 5/IC_desgin/HoangNgocDung_tb_FFD.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 5/IC_desgin/HoangNgocDung_tb_FFD.v|
 !i113 1
 Z5 o-work work
 Z6 tCvgOpt 0
 ndung_tb_@f@f@d
 vdung_tb_FFD_SR_8bit
-!s110 1742638879
+R0
 !i10b 1
-!s100 R:=T?^NLeGk474aX1NM2m2
-IRYdUWn^9U=F@R>[k]KP:o3
+!s100 jF95<fIFn:kC1TCEc@KIc3
+IjYVmeeNFTU=_nQ;80Oh=N1
 R1
 R2
-w1742638869
+w1742638975
 8C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 5/IC_desgin/HoangNgocDung_tb_FFD_SR_8bit.v
 FC:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 5/IC_desgin/HoangNgocDung_tb_FFD_SR_8bit.v
 L0 2
@@ -74,6 +74,50 @@ Z11 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Documents/GitH
 R5
 R6
 n@f@f_@d
+vHoangNgocDung_tb_up_down_counter_TFF_8bit
+!s110 1742700813
+!i10b 1
+!s100 MN3o@_^;hb6YnS9P6?RlH0
+IN`b_H4n>1c7L7M4XgO@9U2
+R1
+R2
+w1742700793
+Z12 8C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 5/IC_desgin/HoangNgocDung_tb_SC_8bit_FFT.v
+Z13 FC:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 5/IC_desgin/HoangNgocDung_tb_SC_8bit_FFT.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1742700813.000000
+Z14 !s107 C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 5/IC_desgin/HoangNgocDung_tb_SC_8bit_FFT.v|
+Z15 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 5/IC_desgin/HoangNgocDung_tb_SC_8bit_FFT.v|
+!i113 1
+R5
+R6
+n@hoang@ngoc@dung_tb_up_down_counter_@t@f@f_8bit
+vHoangNgocDung_tb_up_down_FFT
+!s110 1742703997
+!i10b 1
+!s100 EBH`37=HV?nf5?]JIHe6z0
+IKhL6B2gXn]eYNk4fH?^V:2
+R1
+R2
+w1742703992
+R12
+R13
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1742703997.000000
+R14
+R15
+!i113 1
+R5
+R6
+n@hoang@ngoc@dung_tb_up_down_@f@f@t
 vSR_8bit
 R0
 !i10b 1
@@ -96,3 +140,110 @@ R11
 R5
 R6
 n@s@r_8bit
+vsynchronous_counter_8bit_FFT
+Z16 !s110 1742669512
+!i10b 1
+!s100 I[bADDMSR@ki7L04]P;cY3
+I>ifD?m8g_OfIHkC^eho@32
+R1
+R2
+w1742669306
+Z17 8C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 5/IC_desgin/Synchronous_Counter_8_FFT.v
+Z18 FC:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 5/IC_desgin/Synchronous_Counter_8_FFT.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z19 !s108 1742669512.000000
+Z20 !s107 C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 5/IC_desgin/Synchronous_Counter_8_FFT.v|
+Z21 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 5/IC_desgin/Synchronous_Counter_8_FFT.v|
+!i113 1
+R5
+R6
+nsynchronous_counter_8bit_@f@f@t
+vt_flip_flop
+Z22 !s110 1742703726
+!i10b 1
+!s100 @M>k[^=1]Ua;lNmbzfZd=1
+IWLiSHXf^5aWPo^CZ]KG560
+R1
+R2
+Z23 w1742703716
+R17
+R18
+L0 1
+R3
+r1
+!s85 0
+31
+Z24 !s108 1742703726.000000
+R20
+R21
+!i113 1
+R5
+R6
+vtb_synchronous_counter_8bit_FFT
+R16
+!i10b 1
+!s100 IScQYkfZ0i9ccW3l_KcLW1
+I[3a]XhB2EJZZZ3bETUXFO1
+R1
+R2
+w1742669503
+R12
+R13
+L0 1
+R3
+r1
+!s85 0
+31
+R19
+R14
+R15
+!i113 1
+R5
+R6
+ntb_synchronous_counter_8bit_@f@f@t
+vup_down_counter_4bit
+!s110 1742703546
+!i10b 1
+!s100 _7SNkB@lg=Eda[R@`DfCX3
+IL<GRlRC:jnmK8d:D]:e<I2
+R1
+R2
+w1742703535
+R17
+R18
+Z25 L0 18
+R3
+r1
+!s85 0
+31
+!s108 1742703546.000000
+R20
+R21
+!i113 1
+R5
+R6
+vup_down_counter_8bit
+R22
+!i10b 1
+!s100 eW7h8c;iGg===BGHZJ=M@1
+ICBk`GPd[Hd:d>V1b?7IBm0
+R1
+R2
+R23
+R17
+R18
+R25
+R3
+r1
+!s85 0
+31
+R24
+R20
+R21
+!i113 1
+R5
+R6

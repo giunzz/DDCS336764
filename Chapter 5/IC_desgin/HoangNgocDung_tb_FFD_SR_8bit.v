@@ -12,7 +12,7 @@ in = 0;
 end
 
 always #10 clk = ~clk;
-always #20 in = in + 1;   
+always #50 in = in + 1;   
 
 SR_8bit m0 (in,clk,out);
 

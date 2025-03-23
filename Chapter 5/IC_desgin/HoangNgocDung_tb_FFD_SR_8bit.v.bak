@@ -8,7 +8,7 @@ wire [7:0] out;
 
 initial begin 
 clk = 0; 
-in = 0 
+in = 0;
 end
 
 always #10 clk = ~clk;
