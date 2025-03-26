@@ -1,11 +1,7 @@
 module FF_D(input wire d,clk, output reg q);
-always @(posedge clk)
-	if (d) begin
-		q=1;
-	end
-	else
-	begin
-		q=0;
-	end
+always @(posedge clk) // positive edge 
+begin
+q <= d; // Non-Blocking Assignment
+end
 endmodule
 		

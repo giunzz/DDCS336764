@@ -1,5 +1,5 @@
 `timescale 1ns/1ns // define timescale
-module dung_tb_FFD_SR_8bit();
+module HoangNgocDung_tb_FFD_SR_8bit();
 
 reg in;
 reg clk;
@@ -12,7 +12,7 @@ in = 0;
 end
 
 always #10 clk = ~clk;
-always #50 in = in + 1;   
+always #10 in = 1;   
 
 SR_8bit m0 (in,clk,out);
 

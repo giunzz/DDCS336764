@@ -8,7 +8,7 @@ q = 0;
 qb = 1;
 end
 
- always @(posedge clk)
+always @(posedge clk)
     if (t) begin
       q = ~q;
       qb = !qb;
@@ -29,9 +29,9 @@ module up_down_counter_8bit (
   assign t3 = (up) ? (q0 & q1 & q2) : (~q0 & ~q1 & ~q2);  
   assign t4 = (up) ? (q3 & q2 & q1 & q0) : (~q0 & ~q1 & ~q2 & ~q3);  
   assign t5 = (up) ? (q4 & q3 & q2 & q1 & q0) : (~q0 & ~q1 & ~q2 & ~q3 & ~q4);   
-  assign t6 = (up) ? (q5& q4 & q3 & q2 & q1 & q0) : (~q0 & ~q1 & ~q2 & ~q3 & ~q4 & q5);
-  assign t7 = (up) ? (q6 & q5& q4 & q3 & q2 & q1 & q0) : (~q0 & ~q1 & ~q2 & ~q3 & ~q4 & q5 & q6);
-   
+  assign t6 = (up) ? (q5& q4 & q3 & q2 & q1 & q0) : (~q0 & ~q1 & ~q2 & ~q3 & ~q4 & ~q5);
+  assign t7 = (up) ? (q6 & q5& q4 & q3 & q2 & q1 & q0) : (~q0 & ~q1 & ~q2 & ~q3 & ~q4 & ~q5 & ~q6);
+
   t_flip_flop ff0  (t0, clk, q0);
   t_flip_flop ff1  (t1, clk, q1);
   t_flip_flop ff2  (t2, clk, q2);

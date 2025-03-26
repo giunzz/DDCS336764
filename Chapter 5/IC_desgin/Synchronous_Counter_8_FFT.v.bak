@@ -4,8 +4,8 @@ module t_flip_flop (
 );
 initial 
 begin 
-q = 1;
-qb = 0;
+q = 0;
+qb = 1;
 end
 
  always @(posedge clk)
