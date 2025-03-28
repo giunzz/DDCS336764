@@ -1,16 +1,24 @@
-{C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 5/IC_desgin/HoangNgocDung_tb_FFD_SR_8bit.v} {1 {vlog -work work -stats=none {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 5/IC_desgin/HoangNgocDung_tb_FFD_SR_8bit.v}
+{C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 5/IC_desgin/FFD.v} {1 {vlog -work work -stats=none {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 5/IC_desgin/FFD.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module FF_D
+
+Top level modules:
+	FF_D
+
+} {} {}} {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 5/IC_desgin/HoangNgocDung_tb_FFD_SR_8bit.v} {1 {vlog -work work -stats=none {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 5/IC_desgin/HoangNgocDung_tb_FFD_SR_8bit.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
 -- Compiling module HoangNgocDung_tb_FFD_SR_8bit
 
 Top level modules:
 	HoangNgocDung_tb_FFD_SR_8bit
 
-} {} {}} {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 5/IC_desgin/FFD.v} {1 {vlog -work work -stats=none {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 5/IC_desgin/FFD.v}
+} {} {}} {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 5/IC_desgin/Synchronous_Counter_8_FFT.v} {1 {vlog -work work -stats=none {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 5/IC_desgin/Synchronous_Counter_8_FFT.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module FF_D
+-- Compiling module t_flip_flop
+-- Compiling module up_down_counter_8bit
 
 Top level modules:
-	FF_D
+	up_down_counter_8bit
 
 } {} {}} {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 5/IC_desgin/FFD_8bit_shiftright.v} {1 {vlog -work work -stats=none {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 5/IC_desgin/FFD_8bit_shiftright.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
@@ -20,14 +28,21 @@ Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  
 Top level modules:
 	SR_8bit
 
-} {} {}} {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 5/IC_desgin/HoangNgocDung_tb_FFD.v} {1 {vlog -work work -stats=none {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 5/IC_desgin/HoangNgocDung_tb_FFD.v}
+} {} {}} {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 5/IC_desgin/HoangNgocDung_tb_SC_8bit_FFT.v} {1 {vlog -work work -stats=none {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 5/IC_desgin/HoangNgocDung_tb_SC_8bit_FFT.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module HoangNgocDung_tb_up_down_FFT
+
+Top level modules:
+	HoangNgocDung_tb_up_down_FFT
+
+} {} {}} {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 5/IC_desgin/dung_tb_FFD.v} {1 {vlog -work work -stats=none {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 5/IC_desgin/dung_tb_FFD.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
 -- Compiling module dung_tb_FFD
 
 Top level modules:
 	dung_tb_FFD
 
-} {} {}} {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 5/IC_desgin/dung_tb_FFD.v} {1 {vlog -work work -stats=none {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 5/IC_desgin/dung_tb_FFD.v}
+} {} {}} {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 5/IC_desgin/HoangNgocDung_tb_FFD.v} {1 {vlog -work work -stats=none {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 5/IC_desgin/HoangNgocDung_tb_FFD.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
 -- Compiling module dung_tb_FFD
 
