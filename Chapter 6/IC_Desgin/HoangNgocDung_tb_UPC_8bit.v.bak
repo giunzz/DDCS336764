@@ -1,0 +1,28 @@
+`timescale 1ns/1ns  // Định nghĩa đơn vị thời gian là 1ns, độ chính xác 1ns
+
+module HoangNgocDung_tb_UPC_8bit;
+
+wire [7:0] out;     // Đường tín hiệu đầu ra 8-bit từ bộ đếm
+reg ud, clk, reset; // Các tín hiệu điều khiển: 
+                    // ud (đếm lên/đếm xuống), clk (xung đồng hồ), reset (đặt lại)
+
+initial begin
+    ud = 1;         // Khởi tạo chế độ đếm lên (1)
+    clk = 0;        // Xung đồng hồ bắt đầu ở mức thấp (0)
+    reset = 1;      // Đặt lại bộ đếm (reset = 1)
+    #20 reset = 0;  // Sau 20ns, tắt reset để bộ đếm bắt đầu hoạt động
+end
+
+always forever #20 clk = ~clk;   // Tạo xung đồng hồ với chu kỳ 40ns
+always forever #250 ud = ~ud;    // Đổi chế độ đếm (lên/xuống) mỗi 250ns
+always forever #800 reset = ~reset; // Reset bộ đếm mỗi 800ns
+
+// Kết nối module CounterUD (bộ đếm) với các tín hiệu trong testbench
+CounterUD m0(
+    .clk(clk),     // Xung đồng hồ
+    .reset(reset), // Tín hiệu đặt lại
+    .ud(ud),       // Tín hiệu đếm lên/đếm xuống
+    .out(out)      // Đầu ra của bộ đếm
+);
+
+endmodule

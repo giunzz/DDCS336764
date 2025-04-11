@@ -1,0 +1,142 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6
+vCounter
+Z0 !s110 1744397797
+!i10b 1
+!s100 DM7heZcXmOh]Sgb>zn=B>3
+IOd;@5o@@m0RAkGR^5Bzk70
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin
+w1744340532
+8C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/synchronous_counter_8bit.v
+FC:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/synchronous_counter_8bit.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1744397797.000000
+!s107 C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/synchronous_counter_8bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/synchronous_counter_8bit.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@counter
+vCounterUD
+R0
+!i10b 1
+!s100 L>mfgn]FSC[1Da7bUKMBK2
+IT0=lK=AY7:YYoTknlNM@>2
+R1
+R2
+w1744393717
+8C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/UPC_8bit.v
+FC:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/UPC_8bit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/UPC_8bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/UPC_8bit.v|
+!i113 1
+R5
+R6
+n@counter@u@d
+vdung_tb_SC8bit
+R0
+!i10b 1
+!s100 ^9bY8iD<;3oBYobbhD8k@2
+I6zBOSC_RJk?k<8W@eUfFP3
+R1
+R2
+w1744341271
+8C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/HoangNgocDung_tb_SC8bit.v
+FC:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/HoangNgocDung_tb_SC8bit.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/HoangNgocDung_tb_SC8bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/HoangNgocDung_tb_SC8bit.v|
+!i113 1
+R5
+R6
+ndung_tb_@s@c8bit
+vHoangNgocDung_tb_SSIPO
+R0
+!i10b 1
+!s100 C?1d5c8mmXKGZnlcoQn]j3
+IK_il4biYVkHb1E`JYDL=c3
+R1
+R2
+w1744397757
+8C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/HoangNgocDung_SSIPO.v
+FC:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/HoangNgocDung_SSIPO.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/HoangNgocDung_SSIPO.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/HoangNgocDung_SSIPO.v|
+!i113 1
+R5
+R6
+n@hoang@ngoc@dung_tb_@s@s@i@p@o
+vHoangNgocDung_tb_UPC_8bit
+R0
+!i10b 1
+!s100 B6cASM3jd40K46VbJCjP;1
+IJZC571^f1T=e?YQl5aH8b0
+R1
+R2
+w1744395186
+8C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/HoangNgocDung_tb_UPC_8bit.v
+FC:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/HoangNgocDung_tb_UPC_8bit.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/HoangNgocDung_tb_UPC_8bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/HoangNgocDung_tb_UPC_8bit.v|
+!i113 1
+R5
+R6
+n@hoang@ngoc@dung_tb_@u@p@c_8bit
+vShiftSIPO
+R0
+!i10b 1
+!s100 jPO4@eMSYW^dbW;4M6deG1
+IECcdFjF2PBjUKQj2d_m0V1
+R1
+R2
+w1744397646
+8C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/Shift_SIPO.v
+FC:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/Shift_SIPO.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/Shift_SIPO.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/Shift_SIPO.v|
+!i113 1
+R5
+R6
+n@shift@s@i@p@o

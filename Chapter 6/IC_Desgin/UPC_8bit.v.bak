@@ -1,0 +1,26 @@
+module CounterUD (
+    input wire clk,      // Clock input
+    input wire reset,    // Active-high reset
+    input wire ud,       // Up/Down control (1=Up, 0=Down)
+    output reg [7:0] q   // 8-bit counter output
+);
+
+// Register for current state
+reg [7:0] r_reg;
+
+// Next state logic
+always @(posedge clk or posedge reset) begin
+    if (reset)
+        r_reg <= 8'b0;           // Synchronous reset to 0
+    else begin
+        if (ud)                  // Count up
+            r_reg <= r_reg + 1;
+        else                     // Count down
+            r_reg <= r_reg - 1;
+    end
+end
+
+// Output assignment
+assign q = r_reg;
+
+endmodule
