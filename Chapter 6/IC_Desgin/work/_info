@@ -9,7 +9,7 @@ z2
 cModel Technology
 dC:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6
 vCounter
-Z0 !s110 1744397797
+Z0 !s110 1744468951
 !i10b 1
 !s100 DM7heZcXmOh]Sgb>zn=B>3
 IOd;@5o@@m0RAkGR^5Bzk70
@@ -23,7 +23,7 @@ Z3 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z4 !s108 1744397797.000000
+Z4 !s108 1744468951.000000
 !s107 C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/synchronous_counter_8bit.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/synchronous_counter_8bit.v|
 !i113 1
@@ -99,14 +99,14 @@ n@hoang@ngoc@dung_tb_@s@s@i@p@o
 vHoangNgocDung_tb_UPC_8bit
 R0
 !i10b 1
-!s100 B6cASM3jd40K46VbJCjP;1
-IJZC571^f1T=e?YQl5aH8b0
+!s100 8SHJYl9fRReW00SFi7gaK2
+IZajLQobLM3Z?>^o]LSK1l3
 R1
 R2
-w1744395186
+w1744398488
 8C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/HoangNgocDung_tb_UPC_8bit.v
 FC:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/HoangNgocDung_tb_UPC_8bit.v
-L0 3
+L0 2
 R3
 r1
 !s85 0
@@ -118,6 +118,71 @@ R4
 R5
 R6
 n@hoang@ngoc@dung_tb_@u@p@c_8bit
+vModule_detect_FSM
+!s110 1744444295
+!i10b 1
+!s100 64WAobVVGVM6TC814ndR31
+IbN1Fm]H8BgYY^EM:K<=gR0
+R1
+R2
+w1744443774
+Z7 8C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/SeqDetector.v
+Z8 FC:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/SeqDetector.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1744444295.000000
+Z9 !s107 C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/SeqDetector.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/SeqDetector.v|
+!i113 1
+R5
+R6
+n@module_detect_@f@s@m
+vSC
+!s110 1744441539
+!i10b 1
+!s100 <inE4MBEb5=3iG`4z2b3b3
+IM1A`A>R6EaPNFffo6@ala1
+R1
+R2
+w1744441479
+R7
+R8
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1744441539.000000
+R9
+R10
+!i113 1
+R5
+R6
+n@s@c
+vseq4_detect_moore
+Z11 !s110 1744468952
+!i10b 1
+!s100 ^IdCG3c24WY_2`ddQYSeJ0
+IEPjFnl0l^`RmJAX2PbX=W0
+R1
+R2
+w1744468783
+R7
+R8
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R9
+R10
+!i113 1
+R5
+R6
 vShiftSIPO
 R0
 !i10b 1
@@ -140,3 +205,25 @@ R4
 R5
 R6
 n@shift@s@i@p@o
+vtb_SC1111
+R11
+!i10b 1
+!s100 O;@W2o5QkMP^XjDfB:lVz2
+IV1FRz@F]mG[zUdkUb1;T_1
+R1
+R2
+w1744468892
+8C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/TB_SC1111.v
+FC:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/TB_SC1111.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1744468952.000000
+!s107 C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/TB_SC1111.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/TB_SC1111.v|
+!i113 1
+R5
+R6
+ntb_@s@c1111
