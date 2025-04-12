@@ -32,7 +32,9 @@ You can view my full report here: [Report (PDF)](https://github.com/giunzz/DDCS3
 
 ---
 
-## **Chapter 5: Coming Soon**
+## **Chapter 5: Sequential Circuits**
 
 
-## **Chapter 6: Coming Soon**
+## **Chapter 6: Synchronous Sequential Circuits**
+
+

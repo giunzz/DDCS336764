@@ -9,7 +9,7 @@ z2
 cModel Technology
 dC:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6
 vCounter
-Z0 !s110 1744468951
+Z0 !s110 1744475801
 !i10b 1
 !s100 DM7heZcXmOh]Sgb>zn=B>3
 IOd;@5o@@m0RAkGR^5Bzk70
@@ -23,7 +23,7 @@ Z3 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z4 !s108 1744468951.000000
+Z4 !s108 1744475801.000000
 !s107 C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/synchronous_counter_8bit.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/synchronous_counter_8bit.v|
 !i113 1
@@ -75,7 +75,7 @@ R5
 R6
 ndung_tb_@s@c8bit
 vHoangNgocDung_tb_SSIPO
-R0
+Z7 !s110 1744475802
 !i10b 1
 !s100 C?1d5c8mmXKGZnlcoQn]j3
 IK_il4biYVkHb1E`JYDL=c3
@@ -89,7 +89,7 @@ R3
 r1
 !s85 0
 31
-R4
+Z8 !s108 1744475802.000000
 !s107 C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/HoangNgocDung_SSIPO.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/HoangNgocDung_SSIPO.v|
 !i113 1
@@ -126,16 +126,16 @@ IbN1Fm]H8BgYY^EM:K<=gR0
 R1
 R2
 w1744443774
-Z7 8C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/SeqDetector.v
-Z8 FC:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/SeqDetector.v
+Z9 8C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/SeqDetector.v
+Z10 FC:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/SeqDetector.v
 L0 1
 R3
 r1
 !s85 0
 31
 !s108 1744444295.000000
-Z9 !s107 C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/SeqDetector.v|
-Z10 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/SeqDetector.v|
+Z11 !s107 C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/SeqDetector.v|
+Z12 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/SeqDetector.v|
 !i113 1
 R5
 R6
@@ -148,43 +148,43 @@ IM1A`A>R6EaPNFffo6@ala1
 R1
 R2
 w1744441479
-R7
-R8
+R9
+R10
 L0 1
 R3
 r1
 !s85 0
 31
 !s108 1744441539.000000
-R9
-R10
+R11
+R12
 !i113 1
 R5
 R6
 n@s@c
 vseq4_detect_moore
-Z11 !s110 1744468952
+R7
 !i10b 1
 !s100 ^IdCG3c24WY_2`ddQYSeJ0
 IEPjFnl0l^`RmJAX2PbX=W0
 R1
 R2
 w1744468783
-R7
-R8
+R9
+R10
 L0 1
 R3
 r1
 !s85 0
 31
-R4
-R9
-R10
+R8
+R11
+R12
 !i113 1
 R5
 R6
 vShiftSIPO
-R0
+R7
 !i10b 1
 !s100 jPO4@eMSYW^dbW;4M6deG1
 IECcdFjF2PBjUKQj2d_m0V1
@@ -206,7 +206,7 @@ R5
 R6
 n@shift@s@i@p@o
 vtb_SC1111
-R11
+R7
 !i10b 1
 !s100 O;@W2o5QkMP^XjDfB:lVz2
 IV1FRz@F]mG[zUdkUb1;T_1
@@ -220,10 +220,52 @@ R3
 r1
 !s85 0
 31
-!s108 1744468952.000000
+R8
 !s107 C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/TB_SC1111.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/TB_SC1111.v|
 !i113 1
 R5
 R6
 ntb_@s@c1111
+vtb_trafficlight
+!s110 1744476201
+!i10b 1
+!s100 eWGQCkH??Fi6HbRVmn_^41
+Ih@JT?Wj[3EIHM6JGPd3lR1
+R1
+R2
+w1744476188
+8C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/TrafficLight_tb.v
+FC:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/TrafficLight_tb.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1744476201.000000
+!s107 C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/TrafficLight_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/TrafficLight_tb.v|
+!i113 1
+R5
+R6
+vtraffic_light
+!s110 1744476052
+!i10b 1
+!s100 jea262:N7YO4USKSRI5900
+IUVLJZ>WNO<R=R3?e1BzJH0
+R1
+R2
+w1744476046
+8C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/DENGT.v
+FC:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/DENGT.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1744476052.000000
+!s107 C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/DENGT.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/DENGT.v|
+!i113 1
+R5
+R6
