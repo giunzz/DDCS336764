@@ -33,8 +33,10 @@ You can view my full report here: [Report (PDF)](https://github.com/giunzz/DDCS3
 ---
 
 ## **Chapter 5: Sequential Circuits**
-
+I will update link code
 
 ## **Chapter 6: Synchronous Sequential Circuits**
+
+- Finite state machine (FSM) 1111: [Code](https://github.com/giunzz/DDCS336764/blob/main/Chapter%206/IC_Desgin/SeqDetector.v) , [Testbench](https://github.com/giunzz/DDCS336764/blob/main/Chapter%206/IC_Desgin/TB_SC1111.v)
 
 - Traffic light: [Tutorial](https://github.com/giunzz/DDCS336764/blob/main/Chapter%206/DENGT.md)
