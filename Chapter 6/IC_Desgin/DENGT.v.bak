@@ -5,28 +5,22 @@ module traffic_light(
     output reg [2:0] out2 // Tr? ?èn 2: [Red, Yellow, Green]
 );
 
-// ??nh ngh?a các tr?ng thái
 parameter S1 = 2'b00, S2 = 2'b01, S3 = 2'b10, S4 = 2'b11;
 reg [1:0] state, next_state;
 reg [4:0] timer;
 
-// Th?i gian cho t?ng tr?ng thái
 parameter S1_TIME = 15, // Xanh 15s
           S2_TIME = 5,  // Vàng 5s
           S3_TIME = 15, // Xanh 15s
           S4_TIME = 5;  // Vàng 5s
 
-// Logic chuy?n tr?ng thái
 always @(posedge clk or posedge reset) begin
     if (reset) begin
         state <= S1;
-        timer <= S1_TIME; // Kh?i t?o v?i th?i gian c?a S1
+        timer <= S1_TIME; 
     end
     else begin
-        // Gi?m b? ??m th?i gian
-        timer <= timer - 1;
-        
-        // Ki?m tra khi timer v? 0 ?? chuy?n tr?ng thái
+        timer <= timer - 1;        
         if (timer == 0) begin
             case(state)
                 S1: begin
@@ -51,7 +45,6 @@ always @(posedge clk or posedge reset) begin
     end
 end
 
-// Logic ??u ra
 always @(state) begin
     case(state)
         S1: begin

@@ -37,4 +37,4 @@ You can view my full report here: [Report (PDF)](https://github.com/giunzz/DDCS3
 
 ## **Chapter 6: Synchronous Sequential Circuits**
 
-
+- Traffic light: [Tutorial](https://github.com/giunzz/DDCS336764/blob/main/Chapter%206/DENGT.md)

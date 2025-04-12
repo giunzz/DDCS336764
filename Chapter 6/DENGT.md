@@ -13,8 +13,29 @@
 |     S4     |       001       |       010       |        5         |
 
 - Sơ đồ nguyên lý 
-![alt text](img/sodo.png)
+![alt text](img/SoDo.png)
 
-## 3. test bernch 
+- Code: [Link](https://github.com/giunzz/DDCS336764/blob/main/Chapter%206/IC_Desgin/DENGT.v)
 
+
+
+## 4. test bernch 
+
+```verilog
+`timescale 1ns/1ns 
+module tb_trafficlight;
+reg clk, reset;
+wire [2:0] out1,out2;  
+
+initial begin 
+clk = 0;
+reset = 1;
+#10 reset = 0;
+end
+
+always forever #20 clk = ~clk; 
+traffic_light uut(clk, reset, out1, out2 );
+endmodule 
+
+```
 ![alt text](img/result.png)
