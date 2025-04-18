@@ -10,8 +10,6 @@ reset = 1;
 end
 
 always forever #20 clk = ~clk; 
-
-
 traffic_light uut(clk, reset, out1, out2 );
 
 endmodule 

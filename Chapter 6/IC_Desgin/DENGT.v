@@ -10,9 +10,9 @@ reg [1:0] state, next_state;
 reg [4:0] timer;
 
 parameter S1_TIME = 15, // Xanh 15s
-          S2_TIME = 5,  // Vàng 5s
+          S2_TIME = 5,  // VÃ ng 5s
           S3_TIME = 15, // Xanh 15s
-          S4_TIME = 5;  // Vàng 5s
+          S4_TIME = 5;  // VÃ ng 5s
 
 always @(posedge clk or posedge reset) begin
     if (reset) begin
