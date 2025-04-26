@@ -228,13 +228,13 @@ R5
 R6
 ntb_@s@c1111
 vtb_trafficlight
-!s110 1744476201
+!s110 1745041515
 !i10b 1
-!s100 eWGQCkH??Fi6HbRVmn_^41
-Ih@JT?Wj[3EIHM6JGPd3lR1
+!s100 P8jm3S1AX=7>jQiL0g:[l1
+IdReg?7Hk<0KMVORbNYPT]2
 R1
 R2
-w1744476188
+w1744940219
 8C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/TrafficLight_tb.v
 FC:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/TrafficLight_tb.v
 L0 2
@@ -242,20 +242,20 @@ R3
 r1
 !s85 0
 31
-!s108 1744476201.000000
+!s108 1745041515.000000
 !s107 C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/TrafficLight_tb.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/TrafficLight_tb.v|
 !i113 1
 R5
 R6
 vtraffic_light
-!s110 1744939899
+!s110 1745041509
 !i10b 1
 !s100 h@_BglO`2XzY6>C@oFlK^0
 IM@`UlcB?ezk[IQUcQL^=i1
 R1
 R2
-w1744477486
+w1744940166
 8C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/DENGT.v
 FC:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/DENGT.v
 L0 1
@@ -263,7 +263,7 @@ R3
 r1
 !s85 0
 31
-!s108 1744939898.000000
+!s108 1745041508.000000
 !s107 C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/DENGT.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/DENGT.v|
 !i113 1
