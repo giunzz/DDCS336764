@@ -1,37 +1,16 @@
-{C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/DENGT.v} {1 {vlog -work work -stats=none {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/DENGT.v}
-Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module traffic_light
-
-Top level modules:
-	traffic_light
-
-} {} {}} {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/UPC_8bit.v} {1 {vlog -work work -stats=none {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/UPC_8bit.v}
+{C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/UPC_8bit.v} {1 {vlog -work work -stats=none {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/UPC_8bit.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
 -- Compiling module CounterUD
 
 Top level modules:
 	CounterUD
 
-} {} {}} {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/TB_SC1111.v} {1 {vlog -work work -stats=none {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/TB_SC1111.v}
+} {} {}} {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/DENGT.v} {1 {vlog -work work -stats=none {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/DENGT.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module tb_SC1111
+-- Compiling module traffic_light
 
 Top level modules:
-	tb_SC1111
-
-} {} {}} {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/SeqDetector.v} {1 {vlog -work work -stats=none {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/SeqDetector.v}
-Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module seq4_detect_moore
-
-Top level modules:
-	seq4_detect_moore
-
-} {} {}} {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/HoangNgocDung_SSIPO.v} {1 {vlog -work work -stats=none {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/HoangNgocDung_SSIPO.v}
-Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module HoangNgocDung_tb_SSIPO
-
-Top level modules:
-	HoangNgocDung_tb_SSIPO
+	traffic_light
 
 } {} {}} {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/HoangNgocDung_tb_SC8bit.v} {1 {vlog -work work -stats=none {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/HoangNgocDung_tb_SC8bit.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
@@ -40,19 +19,33 @@ Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  
 Top level modules:
 	dung_tb_SC8bit
 
-} {} {}} {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/TrafficLight_tb.v} {1 {vlog -work work -stats=none {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/TrafficLight_tb.v}
+} {} {}} {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/HoangNgocDung_SSIPO.v} {1 {vlog -work work -stats=none {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/HoangNgocDung_SSIPO.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module tb_trafficlight
+-- Compiling module HoangNgocDung_tb_SSIPO
 
 Top level modules:
-	tb_trafficlight
+	HoangNgocDung_tb_SSIPO
 
-} {} {}} {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/Shift_SIPO.v} {1 {vlog -work work -stats=none {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/Shift_SIPO.v}
+} {} {}} {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/SeqDetector.v} {1 {vlog -work work -stats=none {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/SeqDetector.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module ShiftSIPO
+-- Compiling module seq4_detect_moore
 
 Top level modules:
-	ShiftSIPO
+	seq4_detect_moore
+
+} {} {}} {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/TB_SC1111.v} {1 {vlog -work work -stats=none {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/TB_SC1111.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_SC1111
+
+Top level modules:
+	tb_SC1111
+
+} {} {}} {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/HoangNgocDung_tb_UPC_8bit.v} {1 {vlog -work work -stats=none {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/HoangNgocDung_tb_UPC_8bit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module HoangNgocDung_tb_UPC_8bit
+
+Top level modules:
+	HoangNgocDung_tb_UPC_8bit
 
 } {} {}} {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/synchronous_counter_8bit.v} {1 {vlog -work work -stats=none {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/synchronous_counter_8bit.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
@@ -61,11 +54,18 @@ Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  
 Top level modules:
 	Counter
 
-} {} {}} {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/HoangNgocDung_tb_UPC_8bit.v} {1 {vlog -work work -stats=none {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/HoangNgocDung_tb_UPC_8bit.v}
+} {} {}} {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/Shift_SIPO.v} {1 {vlog -work work -stats=none {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/Shift_SIPO.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module HoangNgocDung_tb_UPC_8bit
+-- Compiling module ShiftSIPO
 
 Top level modules:
-	HoangNgocDung_tb_UPC_8bit
+	ShiftSIPO
+
+} {} {}} {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/TrafficLight_tb.v} {1 {vlog -work work -stats=none {C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/TrafficLight_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_trafficlight
+
+Top level modules:
+	tb_trafficlight
 
 } {} {}}
