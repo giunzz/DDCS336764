@@ -33,7 +33,7 @@ You can view my full report here: [Report (PDF)](https://github.com/giunzz/DDCS3
 ---
 
 ## **Chapter 5: Sequential Circuits**
-I will update link code
+You can view my full report here: [Report (PDF)](https://github.com/giunzz/DDCS336764/blob/main/Chapter%205/Quick%20Question.%20Chapter%2005.pdf)
 
 ## **Chapter 6: Synchronous Sequential Circuits**
 
