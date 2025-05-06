@@ -61,7 +61,7 @@ In this chapter, I showcase my Verilog code and testbenches, along with simulati
 **You can view my full report here: [Report (PDF)](https://github.com/giunzz/DDCS336764/blob/main/Chapter%206/Quick%20Question.%20Chapter%2006.pdf)**
 
 ## **Bonus**: Synchronous sequentail circuit - Finite state machine (FSM)
-- State machine (I will update)
-- Finite state machine (FSM) 1111: [Code](https://github.com/giunzz/DDCS336764/blob/main/Chapter%206/IC_Desgin/SeqDetector.v) , [Testbench](https://github.com/giunzz/DDCS336764/blob/main/Chapter%206/IC_Desgin/TB_SC1111.v)
+- Password door (I will update): [doc](https://github.com/giunzz/DDCS336764/blob/main/Chapter%206/password_door.md)
+- Sequence detect (FSM) 1001: [Tutorial](https://github.com/giunzz/DDCS336764/blob/main/Chapter%206/Sequence_detect.md)
 
 - Traffic light: [Tutorial](https://github.com/giunzz/DDCS336764/blob/main/Chapter%206/DENGT.md)
