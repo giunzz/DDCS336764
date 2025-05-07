@@ -65,3 +65,7 @@ In this chapter, I showcase my Verilog code and testbenches, along with simulati
 - Sequence detect (FSM) 1001: [Tutorial](https://github.com/giunzz/DDCS336764/blob/main/Chapter%206/Sequence_detect.md)
 
 - Traffic light: [Tutorial](https://github.com/giunzz/DDCS336764/blob/main/Chapter%206/DENGT.md)
+
+- Learn more : Simple lock [git](https://github.com/lkmidas/Simple-door-lock-using-Verilog-HDL)
+
+- Clock : [binary clock](https://github.com/FPGADude/Digital-Design/blob/main/FPGA%20Projects/NEW%207%20Segment%20Clock%20with%20NEW%20Binary%20Clock%20Core/binary_clock.v)
