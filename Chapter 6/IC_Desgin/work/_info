@@ -9,7 +9,7 @@ z2
 cModel Technology
 dC:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6
 vCounter
-Z0 !s110 1744475801
+Z0 !s110 1746648425
 !i10b 1
 !s100 DM7heZcXmOh]Sgb>zn=B>3
 IOd;@5o@@m0RAkGR^5Bzk70
@@ -23,7 +23,7 @@ Z3 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z4 !s108 1744475801.000000
+Z4 !s108 1746648425.000000
 !s107 C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/synchronous_counter_8bit.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/synchronous_counter_8bit.v|
 !i113 1
@@ -52,6 +52,28 @@ R4
 R5
 R6
 n@counter@u@d
+vDoor_System
+!s110 1746649267
+!i10b 1
+!s100 T;?c4@hVAaN0bZg5MgIEk2
+ITlQc;DL]am7?:agFCAMU:1
+R1
+R2
+w1746649242
+8C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/button_seg.v
+FC:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/button_seg.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1746649267.000000
+!s107 C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/button_seg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/button_seg.v|
+!i113 1
+R5
+R6
+n@door_@system
 vdung_tb_SC8bit
 R0
 !i10b 1
@@ -74,8 +96,74 @@ R4
 R5
 R6
 ndung_tb_@s@c8bit
+vHoangNgocDung_led7_decoder
+R0
+!i10b 1
+!s100 SQcbWRJSc8_zLhkf1:dk;1
+IT@[z0b<SU[Q_g@W8BHNKm2
+R1
+R2
+w1746606984
+Z7 8C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/tb_led.v
+Z8 FC:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/tb_led.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+Z9 !s107 C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/tb_led.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/tb_led.v|
+!i113 1
+R5
+R6
+n@hoang@ngoc@dung_led7_decoder
+vHoangNgocDung_t_password
+R0
+!i10b 1
+!s100 7KHL[VKd^;bBfl22;TjKi2
+IdU8CGk0h675BeZ^Y4oSaA1
+R1
+R2
+w1746608146
+8C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/tb_pass_decoder.v
+FC:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/tb_pass_decoder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/tb_pass_decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/tb_pass_decoder.v|
+!i113 1
+R5
+R6
+n@hoang@ngoc@dung_t_password
+vHoangNgocDung_tb_DoorSystem
+!s110 1746648426
+!i10b 1
+!s100 FBB5bWX5VVdKQ^a030<<42
+IF4<>:=;[<j?O^fh>9Vih42
+R1
+R2
+w1746648408
+8C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/tb_door.v
+FC:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/tb_door.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/tb_door.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/tb_door.v|
+!i113 1
+R5
+R6
+n@hoang@ngoc@dung_tb_@door@system
 vHoangNgocDung_tb_SSIPO
-Z7 !s110 1744475802
+R0
 !i10b 1
 !s100 C?1d5c8mmXKGZnlcoQn]j3
 IK_il4biYVkHb1E`JYDL=c3
@@ -89,7 +177,7 @@ R3
 r1
 !s85 0
 31
-!s108 1744475802.000000
+R4
 !s107 C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/HoangNgocDung_SSIPO.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/HoangNgocDung_SSIPO.v|
 !i113 1
@@ -118,6 +206,27 @@ R4
 R5
 R6
 n@hoang@ngoc@dung_tb_@u@p@c_8bit
+vled7_decoder
+R0
+!i10b 1
+!s100 UCJ0`IQQd5S;=6?zA:<A>0
+I1hBJ7;BZ>SNO7^bk6VkgK2
+R1
+R2
+Z11 w1746606185
+Z12 8C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/led7_seg.v
+Z13 FC:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/led7_seg.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+Z14 !s107 C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/led7_seg.v|
+Z15 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/led7_seg.v|
+!i113 1
+R5
+R6
 vModule_detect_FSM
 !s110 1744444295
 !i10b 1
@@ -126,20 +235,41 @@ IbN1Fm]H8BgYY^EM:K<=gR0
 R1
 R2
 w1744443774
-Z8 8C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/SeqDetector.v
-Z9 FC:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/SeqDetector.v
+Z16 8C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/SeqDetector.v
+Z17 FC:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/SeqDetector.v
 L0 1
 R3
 r1
 !s85 0
 31
 !s108 1744444295.000000
-Z10 !s107 C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/SeqDetector.v|
-Z11 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/SeqDetector.v|
+Z18 !s107 C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/SeqDetector.v|
+Z19 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/SeqDetector.v|
 !i113 1
 R5
 R6
 n@module_detect_@f@s@m
+vpass_decoder
+R0
+!i10b 1
+!s100 <@0z`Bj5h1S90B]57l7Wc2
+I[8Zh[II_BRAI5`kQa[lYL3
+R1
+R2
+R11
+R12
+R13
+L0 39
+R3
+r1
+!s85 0
+31
+R4
+R14
+R15
+!i113 1
+R5
+R6
 vSC
 !s110 1744441539
 !i10b 1
@@ -148,43 +278,43 @@ IM1A`A>R6EaPNFffo6@ala1
 R1
 R2
 w1744441479
-R8
-R9
+R16
+R17
 L0 1
 R3
 r1
 !s85 0
 31
 !s108 1744441539.000000
-R10
-R11
+R18
+R19
 !i113 1
 R5
 R6
 n@s@c
 vseq4_detect_moore
-!s110 1746505411
+R0
 !i10b 1
 !s100 UHkb>8KWEA4=oh1ci:PnQ0
 IO3hLiLSM7KBE<WZY;WAZZ0
 R1
 R2
 w1746505399
-R8
-R9
+R16
+R17
 L0 1
 R3
 r1
 !s85 0
 31
-!s108 1746505411.000000
-R10
-R11
+R4
+R18
+R19
 !i113 1
 R5
 R6
 vShiftSIPO
-R7
+R0
 !i10b 1
 !s100 jPO4@eMSYW^dbW;4M6deG1
 IECcdFjF2PBjUKQj2d_m0V1
@@ -205,8 +335,29 @@ R4
 R5
 R6
 n@shift@s@i@p@o
+vt_led7_decoder
+!s110 1746606363
+!i10b 1
+!s100 DG9K86^M?YoXWA^_;8QZV2
+I98]Aham8hh6VSi]C6^PdF1
+R1
+R2
+w1746606348
+R7
+R8
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1746606363.000000
+R9
+R10
+!i113 1
+R5
+R6
 vtb_SC1111
-!s110 1746505651
+R0
 !i10b 1
 !s100 hBJ@AnY4NHUb]Td8nGKaf1
 IJ`2i=b=o0gD70SARW2zz30
@@ -220,7 +371,7 @@ R3
 r1
 !s85 0
 31
-!s108 1746505651.000000
+R4
 !s107 C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/TB_SC1111.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/TB_SC1111.v|
 !i113 1
@@ -228,7 +379,7 @@ R5
 R6
 ntb_@s@c1111
 vtb_trafficlight
-!s110 1745041515
+R0
 !i10b 1
 !s100 P8jm3S1AX=7>jQiL0g:[l1
 IdReg?7Hk<0KMVORbNYPT]2
@@ -242,14 +393,14 @@ R3
 r1
 !s85 0
 31
-!s108 1745041515.000000
+R4
 !s107 C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/TrafficLight_tb.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/TrafficLight_tb.v|
 !i113 1
 R5
 R6
 vtraffic_light
-!s110 1745041509
+R0
 !i10b 1
 !s100 h@_BglO`2XzY6>C@oFlK^0
 IM@`UlcB?ezk[IQUcQL^=i1
@@ -263,7 +414,7 @@ R3
 r1
 !s85 0
 31
-!s108 1745041508.000000
+R4
 !s107 C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/DENGT.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/DENGT.v|
 !i113 1
