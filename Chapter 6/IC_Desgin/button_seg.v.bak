@@ -14,7 +14,7 @@ reg [3:0] led_timer; // 3s
 
 parameter S0 = 0 , S1 = 1 , S2 = 2 , S3 = 3, S4 = 4, error = 5;
 
-parameter TIME_OUT  = 10, led_on = 3, led_blink = 3;
+parameter TIME_OUT  = 10, led_on = 3, led_blink = 1;
 
 // reset 
 always @(posedge reset)
@@ -37,8 +37,8 @@ begin
 	seq <= 0; 
 	y <= 0;
 	timer = 0;
-  	green_led <= 0;
-        red_led <= 0;
+	green_led <= 0;
+    red_led <= 0;
 end
 else if (btn != 0) 
 	timer <= 0;
@@ -76,7 +76,11 @@ begin
 end
 else if (btn[1] || btn[2] || btn[0])  
 	next_state <= error;
-error: next_state  <= S0;
+error: 
+begin 
+next_state  <= S0;
+seq <= 0; 
+end
 
 default: next_state  <= S0; 
 
@@ -84,7 +88,7 @@ endcase
 
 
 always @(posedge clk) 
-      state <= next_state;
+    state <= next_state;
 
 // output
 
@@ -100,16 +104,16 @@ end else begin
 end
 
 if (green_led == 1) begin
-      if (led_timer < led_on) 
+    if (led_timer < led_on) 
                 led_timer <= led_timer + 1;   
-      else begin
+    else begin
                 green_led = 0;  
                 led_timer <= 0;  
             end
 end
 if (state == error) begin
             if (led_timer < led_blink) begin
-                red_led <= (led_timer % 2 == 0) ? 1 : 0;  
+                red_led = (led_timer % 2 == 0) ? 1 : 0;  
                 led_timer <= led_timer + 1;   
             end else begin
                 red_led = 0;      

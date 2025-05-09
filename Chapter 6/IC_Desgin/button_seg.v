@@ -76,7 +76,11 @@ begin
 end
 else if (btn[1] || btn[2] || btn[0])  
 	next_state <= error;
-error: next_state  <= S0;
+error: 
+begin 
+next_state  <= S0;
+seq = 0; 
+end
 
 default: next_state  <= S0; 
 
