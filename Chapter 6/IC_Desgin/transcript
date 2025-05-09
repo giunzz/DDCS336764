@@ -260,3 +260,4 @@ add wave -position insertpoint sim:/HoangNgocDung_tb_DoorSystem/*
 # ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
 #           Using alternate file: ./wlftqzrayw
 run
+# Compile of tb_door.v was successful.

@@ -141,13 +141,13 @@ R5
 R6
 n@hoang@ngoc@dung_t_password
 vHoangNgocDung_tb_DoorSystem
-!s110 1746764400
+!s110 1746767027
 !i10b 1
-!s100 Z1@oGUW4<O>n`fKYA`1f^0
-ICb;6KWGIB2z1oIdkV<Ggz2
+!s100 1DWOJljGNm9bHgS2nhS^L0
+I?ohkBKDf^S1R=TXbe88Jo3
 R1
 R2
-w1746764383
+w1746767018
 8C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/tb_door.v
 FC:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/tb_door.v
 L0 1
@@ -155,7 +155,7 @@ R3
 r1
 !s85 0
 31
-!s108 1746764400.000000
+!s108 1746767027.000000
 !s107 C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/tb_door.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Documents/GitHub/TKHT.MTH/DDCS336764/Chapter 6/IC_Desgin/tb_door.v|
 !i113 1

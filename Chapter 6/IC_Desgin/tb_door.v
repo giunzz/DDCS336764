@@ -9,20 +9,21 @@ initial begin
         reset = 0;
 	clk = 0;
         // Apply reset
-        #10 reset = 1;
-        #10 reset = 0;
+        #5 reset = 1;
+        #5 reset = 0;
 
         // Test Case 1: Correct password (1, 3, 2, 4)
-        #10 btn = 3;
-        #20 btn = 2;
-        #10 btn = 4;
+	#5 btn = 1;
+        #5 btn = 3;
+        #5 btn = 2;
+        #5 btn = 4;
        
 
         // Test Case 2: Incorrect password
-        #20 btn  = 1;
-        #10 btn = 2;
-        #20 btn = 3;
-        #10 btn = 4;
+        #5 btn  = 1;
+        #5 btn = 2;
+        #5 btn = 3;
+        #5 btn = 4;
 
         // Test Case 3: Timeout scenario (no button pressed for 10 cycles)
         #20 btn = 0 ;
