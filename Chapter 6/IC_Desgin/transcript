@@ -261,3 +261,19 @@ add wave -position insertpoint sim:/HoangNgocDung_tb_DoorSystem/*
 #           Using alternate file: ./wlftqzrayw
 run
 # Compile of tb_door.v was successful.
+vsim work.HoangNgocDung_tb_DoorSystem
+# End time: 12:05:05 on May 09,2025, Elapsed time: 0:44:56
+# Errors: 0, Warnings: 2
+# vsim work.HoangNgocDung_tb_DoorSystem 
+# Start time: 12:05:05 on May 09,2025
+# Loading work.HoangNgocDung_tb_DoorSystem
+# Loading work.Door_System
+add wave -position insertpoint sim:/HoangNgocDung_tb_DoorSystem/*
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: ASUS  Hostname: ZUNCUTE  ProcessID: 20184
+#           Attempting to use alternate WLF file "./wlftcs5a3c".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftcs5a3c
+run
+# End time: 12:05:19 on May 09,2025, Elapsed time: 0:00:14
+# Errors: 0, Warnings: 2
